@@ -1,0 +1,46 @@
+[{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Parque Nacional Amboró",
+      "description": "Adéntrate en una de las reservas con mayor biodiversidad del mundo. Selva virgen, cascadas cristalinas y el hogar del oso de anteojos.",
+      "type": "Naturaleza",
+      "image": "https://www.ibolivia.org/wp-content/uploads/2019/08/parque-nacional-amboro.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lomas de Arena",
+      "description": "Un desierto inesperado en el trópico. Dunas doradas de hasta 12 metros de altura que rodean lagunas de agua de lluvia.",
+      "type": "Aventura",
+      "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Misiones Jesuíticas",
+      "description": "El barroco chiquitano vivo. Iglesias Patrimonio de la Humanidad donde la música y la arquitectura cuentan la historia de un encuentro cultural único.",
+      "type": "Cultura",
+      "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Fuerte de Samaipata",
+      "description": "El misterio de la piedra tallada más grande del mundo. Un centro ceremonial preincaico rodeado de montañas y nubes.",
+      "type": "Arqueología",
+      "image": "https://images.unsplash.com/photo-1516606864112-24329b3f4955?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Biocentro Güembé",
+      "description": "Un paraíso natural con el mariposario más grande del mundo, piscinas naturales y una inmersión total en la flora cruceña.",
+      "type": "Ecoturismo",
+      "image": "https://images.unsplash.com/photo-1576483984180-87747806497f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Cataratas del Jardín",
+      "description": "Descubre la fuerza del agua en el corazón de la selva. Un espectáculo natural que te conectará con la esencia de la vida.",
+      "type": "Exploración",
+      "image": "https://images.unsplash.com/photo-1445217983636-61198656113b?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}]
